@@ -1,0 +1,8 @@
+[
+  {
+    "jira": "ID-1",
+    "_CommentJira": "You can find the ID of the issue in the URL, for example: https://yourcompany.atlassian.net/browse/ID-1, where ID-1 is the ID of the issue.",
+    "wakatime": "wakajira",
+    "_CommentWakatime": "You can find the wakatime ID in the URL, for example: https://wakatime.com/projects/ID-1, where ID-1 is the ID of the project."
+  }
+]
